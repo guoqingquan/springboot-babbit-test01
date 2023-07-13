@@ -1,0 +1,7 @@
+spring:
+  rabbitmq:
+    host: 192.168.200.112
+    port: 5672
+    username: white
+    password: 123456
+    virtual-host: /shopping
